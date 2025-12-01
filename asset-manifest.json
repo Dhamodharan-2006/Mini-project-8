@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dhamodharan-2006/Mini-project-8/static/css/main.db02c606.css",
+    "main.js": "/Dhamodharan-2006/Mini-project-8/static/js/main.d6a173e6.js",
+    "static/js/453.042f6385.chunk.js": "/Dhamodharan-2006/Mini-project-8/static/js/453.042f6385.chunk.js",
+    "index.html": "/Dhamodharan-2006/Mini-project-8/index.html",
+    "main.db02c606.css.map": "/Dhamodharan-2006/Mini-project-8/static/css/main.db02c606.css.map",
+    "main.d6a173e6.js.map": "/Dhamodharan-2006/Mini-project-8/static/js/main.d6a173e6.js.map",
+    "453.042f6385.chunk.js.map": "/Dhamodharan-2006/Mini-project-8/static/js/453.042f6385.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db02c606.css",
+    "static/js/main.d6a173e6.js"
+  ]
+}
